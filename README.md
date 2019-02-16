@@ -2,5 +2,6 @@
 
 ## Push command successful but no changes reflected on Remote Repository file
 ### Solution
-git reset HEAD~1
-add/commit/push again
+#### git reset HEAD~1
+#### add/commit/push again
+#### git push origin <branch_name> -f
